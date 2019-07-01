@@ -1,0 +1,45 @@
+.bg{
+    width:1526.4px;
+    height: 589.2px;
+    background: #333
+}
+.footer-bg{
+    width:1200px;
+    height: 457.2px;
+    margin:0 auto;
+}
+.footer-one{
+    width: 357px;
+    height: 457.2px;
+}
+.footer-one>h3{
+    color:#999999;
+    padding:80px 0 46px;
+}
+.footer-one-nav{
+    display: flex
+}
+.footer-one-nav>li>div{
+    margin:0 29px 12px;
+    background-image: url(img/sprite/footer@2x.png);
+}
+.pc{
+    width: 37px;
+    height: 48px;
+    background-position: 0px 0px;
+}
+.mac{
+    width: 46px;
+    height: 48px;
+    background-position: 0px 0px;
+}
+.and{
+    width: 37px;
+    height: 48px;
+    background-position: 0px 0px;
+}
+.ip{
+    width: 34px;
+    height: 48px;
+    background-position: 0px 0px;
+}
