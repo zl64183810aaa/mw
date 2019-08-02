@@ -1,0 +1,6 @@
+.player{
+    background-color: rgba(-48, 0, 34, 0);
+}
+.player>.bg_player_mask{
+background-color: rgba(0,0,0,.3);
+z-index: 2;}

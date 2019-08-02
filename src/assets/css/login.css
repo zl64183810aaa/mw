@@ -1,0 +1,43 @@
+.login-bg{
+    width: 1526.4px;
+    height: 622px;
+    background: url(../img/login/bg_profile_unlogin.jpg)
+
+}
+.login-bg>div{
+    width:1200px;
+    height:208px;
+    margin:0 auto;
+    color:#ffffff;
+}
+.login-bg::before{
+    content: "";
+    display: table;
+}
+.login-bg>div>h2{
+    width: 788px;
+    margin:200px auto 0;
+    font-size: 60px;
+    font-weight: 500;  
+}
+.login-bg>div>div{
+    width: 420px;
+    margin:50px auto;
+    font-size: 30px;
+    font-weight: 300;
+}
+.login-bg>div>a{
+    text-decoration: none;
+    width:80px;
+    display: block;
+    margin:20px auto;
+    background: #31c27c;
+    padding:15px 30px;
+    color: #ffffff;
+    font-size:20px;
+    border-radius:3px; 
+}
+.login-bg>div>h2,.login-bg>div>div,.login-bg>div>a{
+    animation:slideInUp 1s;
+}
+
