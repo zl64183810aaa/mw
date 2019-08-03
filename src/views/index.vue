@@ -1,6 +1,7 @@
 <template>
     <div>
         <my-header/>
+        <carousel/>
 <div class="body-bg">
     <div class="body-pre">
         <h2>歌单推荐</h2>
@@ -997,12 +998,15 @@ a{
 }
 .body-mv-turn{
     position: relative;
-    width: 1250%;
+    width: 4800px;
+    
   
  }
 .body-mv-con{
+    width:1200px;
     display:flex;
     flex-wrap:wrap;
+
 }
 .body-mv-con>li{
     width: 240px;
