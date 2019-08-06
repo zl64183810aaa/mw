@@ -1,5 +1,6 @@
 <template>
     <div class="body-bg">
+      <div></div>
         <div id="banner" @mouseover="stop" @mouseleave="play">
             <ul id="ul-imgs" :style="containerStyle">       
                 <li><a href="javascript:;">
@@ -20,6 +21,7 @@
               
             </ul>
           </div>
+          <div class="right"></div>
           <div class="body-btn">
                 <button id="btn-left"  class="prev" @click="move(1200, 1,speed),stop()">
                     <i class="prev-pic"></i>

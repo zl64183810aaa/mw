@@ -15,8 +15,228 @@
                 <li><a href="#">90年代</a></li>
             </ul>
         </div>
-        <div>
+        <div class="body-pre-out"  :style="containerStyle">
             <ul class="body-pre-list">
+                <li> <div class="body-list-one">
+                    <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                    </div>                        
+                    <img src="../../public/img/pre-nav/T002R300x300M000001Gb5qq3iQlFZ.jpg" alt=""> 
+                                               
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>               
+                   </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (1).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000003rzoDZ0w1NIX.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000004IT4h71Zz5EM.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (3).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+            </ul>
+            <ul class="body-pre-list">
+                <li> <div class="body-list-one">
+                    <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                    </div>                        
+                    <img src="../../public/img/pre-nav/T002R300x300M000001Gb5qq3iQlFZ.jpg" alt=""> 
+                                               
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>               
+                   </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (1).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000003rzoDZ0w1NIX.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000004IT4h71Zz5EM.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (2).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+            </ul>
+            <ul class="body-pre-list">
+                <li> <div class="body-list-one">
+                    <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                    </div>                        
+                    <img src="../../public/img/pre-nav/T002R300x300M000001Gb5qq3iQlFZ.jpg" alt=""> 
+                                               
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>               
+                   </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (1).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000003rzoDZ0w1NIX.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000004IT4h71Zz5EM.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (3).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+            </ul>
+            <ul class="body-pre-list">
+                <li> <div class="body-list-one">
+                    <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                    </div>                        
+                    <img src="../../public/img/pre-nav/T002R300x300M000001Gb5qq3iQlFZ.jpg" alt=""> 
+                                               
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>               
+                   </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (1).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000003rzoDZ0w1NIX.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000004IT4h71Zz5EM.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (2).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+            </ul>
+            <ul class="body-pre-list">
+                <li> <div class="body-list-one">
+                    <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                    </div>                        
+                    <img src="../../public/img/pre-nav/T002R300x300M000001Gb5qq3iQlFZ.jpg" alt=""> 
+                                               
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>               
+                   </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (1).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000003rzoDZ0w1NIX.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/T002R300x300M000004IT4h71Zz5EM.jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+                <li> <div class="body-list-one">
+                        <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                        </div>
+                    <img src="../../public/img/pre-nav/300 (3).jpg" alt="">                  
+                        <p class="p1">千与千寻</p>
+                        <p class="p2">播放量<span>66.66</span>万</p>
+                    </div>
+                </li>
+            </ul>
+             <ul class="body-pre-list">
                 <li> <div class="body-list-one">
                     <div><img src="../../public/img/pre-nav/cover_play@2x.png" alt="">
                     </div>                        
@@ -62,26 +282,28 @@
             </ul>
         </div>
     </div>
-    <div class="dot">
+    <div class="dotf1">
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li :class="{activedot: 0===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 1===(currentIndex-1)}" 
+            ></li>
+            
+           
         </ul>
     </div>
     <div class="body-btn">
-        <button class="prev">
-            <i class="prev-pic"></i>
-        </button>
-        <button class="next">
-            <i class="next-pic"></i>
-        </button>
+            <button class="prev" @click="bodyMoveF1(1200,1)">
+                <i class="prev-pic"></i>
+            </button>
+            <button class="next" @click="bodyMoveF1(1200,-1)">
+                <i class="next-pic"></i>
+            </button>
     </div>
-</div>
-<!--F2-->
+    </div>
+   <!--F2-->
     <div class="body-bg">
-    <div class="body-new">
+        <div class="body-new">
             <h2>新歌推荐</h2>
             <div class="body-pre-nav">
                 <ul class="body-nav">
@@ -92,7 +314,8 @@
                     <li><a href="#">韩国</a></li>
                     <li><a href="#">日本</a></li>
                 </ul>
-            </div>            
+            </div>  
+            <div class="body-new-out" :style="containerStyle">          
                 <ul class="body-new-con">
                     <li>
                         <div>
@@ -107,108 +330,673 @@
                         </div>
                     </li>
                     <li>
-                            <div>
-                                 <div class="img">
-                                     <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                     <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
-                                </div> 
-                                <div class="body-new-int">
-                                <a href="#">XXXTC</a>
-                                <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                </div>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
                             </div>
-                        </li>
-                        <li>
-                                <div>
-                                     <div class="img">
-                                         <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                         <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
-                                    </div> 
-                                    <div class="body-new-int">
-                                    <a href="#">XXXTC</a>
-                                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                    <div>
-                                         <div class="img">
-                                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                             <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
-                                        </div> 
-                                        <div class="body-new-int">
-                                        <a href="#">XXXTC</a>
-                                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                        <div>
-                                             <div class="img">
-                                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
-                                            </div> 
-                                            <div class="body-new-int">
-                                            <a href="#">XXXTC</a>
-                                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                            <div>
-                                                 <div class="img">
-                                                     <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                                     <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
-                                                </div> 
-                                                <div class="body-new-int">
-                                                <a href="#">XXXTC</a>
-                                                <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                                <div>
-                                                     <div class="img">
-                                                         <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                                         <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
-                                                    </div> 
-                                                    <div class="body-new-int">
-                                                    <a href="#">XXXTC</a>
-                                                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                    <div>
-                                                         <div class="img">
-                                                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                                             <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
-                                                        </div> 
-                                                        <div class="body-new-int">
-                                                        <a href="#">XXXTC</a>
-                                                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                        <div>
-                                                             <div class="img">
-                                                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                                                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
-                                                            </div> 
-                                                            <div class="body-new-int">
-                                                            <a href="#">XXXTC</a>
-                                                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
-                                                            </div>
-                                                        </div>
-                                                    </li>
+                        </div>
+                    </li>
+                <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                <div>
+                        <div class="img">
+                            <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                            <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                    </div> 
+                    <div class="body-new-int">
+                    <a href="#">XXXTC</a>
+                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
                 </ul> 
+                               <ul class="body-new-con">
+                    <li>
+                        <div>
+                             <div class="img">
+                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                <div>
+                        <div class="img">
+                            <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                            <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                    </div> 
+                    <div class="body-new-int">
+                    <a href="#">XXXTC</a>
+                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                </ul> 
+                               <ul class="body-new-con">
+                    <li>
+                        <div>
+                             <div class="img">
+                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                <div>
+                        <div class="img">
+                            <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                            <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                    </div> 
+                    <div class="body-new-int">
+                    <a href="#">XXXTC</a>
+                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                </ul> 
+                               <ul class="body-new-con">
+                    <li>
+                        <div>
+                             <div class="img">
+                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                <div>
+                        <div class="img">
+                            <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                            <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                    </div> 
+                    <div class="body-new-int">
+                    <a href="#">XXXTC</a>
+                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                </ul> 
+                               <ul class="body-new-con">
+                    <li>
+                        <div>
+                             <div class="img">
+                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                <div>
+                        <div class="img">
+                            <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                            <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                    </div> 
+                    <div class="body-new-int">
+                    <a href="#">XXXTC</a>
+                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                </ul> 
+                               <ul class="body-new-con">
+                    <li>
+                        <div>
+                             <div class="img">
+                                 <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                 <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000T1Pkl1jVnwX.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M000000jpkNN25DP90.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                <div>
+                        <div class="img">
+                            <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                            <img class="img2" src="../../public/img/pre-nav/T002R90x90M000004TKOdz2MhX41.jpg" alt="">
+                    </div> 
+                    <div class="body-new-int">
+                    <a href="#">XXXTC</a>
+                    <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                    <div>
+                            <div class="img">
+                                <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                <img class="img2" src="../../public/img/pre-nav/T002R90x90M000003e7ZYp0jwp9h.jpg" alt="">
+                        </div> 
+                        <div class="body-new-int">
+                        <a href="#">XXXTC</a>
+                        <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                        <div>
+                                <div class="img">
+                                    <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                                    <img class="img2" src="../../public/img/pre-nav/T002R90x90M0000041ioCQ3EdzSH.jpg" alt="">
+                            </div> 
+                            <div class="body-new-int">
+                            <a href="#">XXXTC</a>
+                            <p><a href="#">Brooke Candy</a><a href=""> Charli XCX </a></p>
+                            </div>
+                        </div>
+                    </li>
+                </ul> 
+                
+                </div>
+    </div>
+    <div class="dot">
+        <ul>
+            <li :class="{activedot: 0===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 1===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 2===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 3===(currentIndex-1)}" 
+            ></li>
+           
+        </ul>
     </div>
     <div class="body-btn">
-            <button class="prev">
+            <button class="prev" @click="bodyMove(1200,1)">
                 <i class="prev-pic"></i>
             </button>
-            <button class="next">
+            <button class="next" @click="bodyMove(1200,-1)">
                 <i class="next-pic"></i>
             </button>
     </div>
@@ -358,7 +1146,7 @@
                 <li><a href="#">日本</a></li>
             </ul>
         </div> 
-        <div class="body-mv-turn">
+        <div class="body-mv-turn" :style="containerStyle">
         <ul class="body-mv-con">
             <li>
                 <div>
@@ -481,7 +1269,7 @@
                 <div>
                      <div class="img-mv">
                          <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
-                         <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                         <img class="img2" src="../../public/img/pre-nav/T015R640x360M102001ctuDK2D23Wq.jpg" alt="">
                     </div> 
                     <div class="body-mv-int">
                     <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
@@ -491,7 +1279,139 @@
                 </div>
             </li>
             </ul>
-            <ul class="body-mv-con">
+        <ul class="body-mv-con">
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M101001UXH221iq04Q.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                </ul>
+        <ul class="body-mv-con">
                 <li>
                     <div>
                          <div class="img-mv">
@@ -623,21 +1543,425 @@
                     </div>
                 </li>
                 </ul>
+        <ul class="body-mv-con">
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                </ul>
+            <ul class="body-mv-con">
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102001ctuDK2D23Wq.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                </ul>
+            <ul class="body-mv-con">
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M102003tSPEW1N9uLS.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                         <div class="img-mv">
+                             <img class="img1" src="../../public/img/pre-nav/cover_play@2x.png" alt="">
+                             <img class="img2" src="../../public/img/pre-nav/T015R640x360M101001UXH221iq04Q.jpg" alt="">
+                        </div> 
+                        <div class="body-mv-int">
+                        <a href="#">我们很好 (林俊杰圣所2.0巡演 南昌站)</a>
+                        <p><a href="#">林俊杰</a></p>
+                        <p><span class="span"></span>66.6万</p>
+                        </div>
+                    </div>
+                </li>
+                </ul>
+        
+        
+
         </div>
     </div>
     <div class="dot">
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li :class="{activedot: 0===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 1===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 2===(currentIndex-1)}" 
+            ></li>
+            <li :class="{activedot: 3===(currentIndex-1)}" 
+            ></li>
+           
         </ul>
     </div>
     <div class="body-btn">
-            <button class="prev">
+            <button class="prev" @click="bodyMove(1200,1)">
                 <i class="prev-pic"></i>
             </button>
-            <button class="next">
+            <button class="next" @click="bodyMove(1200,-1)">
                 <i class="next-pic"></i>
             </button>
     </div>
@@ -653,14 +1977,93 @@
 <script>
 
 export default {
+    data(){
+        return {
+        currentIndex:1,
+         distance:-1200,
+         transitionEnd:true,
+        }
+    },
+    methods: {
+        bodyMove(offset, direction) {
+            if (!this.transitionEnd) return  //这里是闸
+                this.transitionEnd = false  
+    direction === -1 ? this.currentIndex++ : this.currentIndex--
+        if (this.currentIndex > 4) this.currentIndex = 1
+        if (this.currentIndex < 1) this.currentIndex = 4
+        const destination = this.distance + offset * direction
+        this.animate(destination, direction)
+    },
+    animate(des, direc) {
+        if ((direc === -1 && des < this.distance) || (direc === 1 && des > this.distance)) {
+            this.distance += 30 * direc        
+            window.setTimeout(() => {
+                this.animate(des, direc)
+            }, 20)
+        } else {
+            this.transitionEnd = true 
+            this.distance = des
+            if (des < -4800) this.distance = -1200
+            if (des > -1200) this.distance = -4800
+      }
+    },
+    bodyMoveF1(offset, direction) {
+        console.log(111)
+            if (!this.transitionEnd) return  //这里是闸
+                this.transitionEnd = false  
+    direction === -1 ? this.currentIndex++ : this.currentIndex--
+        if (this.currentIndex > 2) this.currentIndex = 1
+        if (this.currentIndex < 1) this.currentIndex = 2
+        console.log(this.distance)
+        const destination = this.distance + offset * direction
+
+        this.animateF1(destination, direction)
+    },
+    animateF1(des, direc) {
+        console.log(2221)
+         console.log(des)
+         
+        if ((direc === -1 && des < this.distance) || (direc === 1 && des > this.distance)) {
+            this.distance += 30 * direc        
+            window.setTimeout(() => {
+                this.animate(des, direc)
+            }, 20)
+        } else {
+            this.transitionEnd = true 
+            this.distance = des
+            console.log(333)
+            if (des < -2400) this.distance = -1200
+            if (des > -1200) this.distance = -2400
+      }}
+    },
+    computed:{
+         containerStyle() {  //这里用了计算属性，用transform来移动整个图片列表
+      return {
+        transform:`translate3d(${this.distance}px, 0, 0)`
+      }
+    },
     
+    }
 }
 </script>
 <style scoped>
+.body-new-out{
+    width: 7200px;
+    height: 333.3px;
+    display: flex;
+
+}
+.body-pre-out{
+    width: 7200px;
+    height: 308px;
+    display: flex;
+
+}
 .body-pre{
     width: 1200px;
     height: 500px;
     margin:0 auto;
+    overflow: hidden;
 }
 h2{
     padding: 50px 0 20px;
@@ -760,8 +2163,10 @@ a{
     width: 1200px;
     height: 570px;
     margin:0 auto;
+    overflow: hidden;
 }
 .body-new-con{
+    width: 1200px;
     display:flex;
     flex-wrap:wrap;
 }
@@ -998,11 +2403,12 @@ a{
 }
 .body-mv-turn{
     position: relative;
-    width: 4800px;
-    
+    width: 7200px;
+    height:462px;
+    display: flex;
   
  }
-.body-mv-con{
+.body-mv-turn>.body-mv-con{
     width:1200px;
     display:flex;
     flex-wrap:wrap;
@@ -1132,19 +2538,45 @@ left:-79px;
 width: 1200px;
 height:20px;
 margin:0 auto;
-
 }
+
 .dot>ul{
     width: 100px;
     margin:0 auto;
     display: flex;
     justify-content: space-between;
 }
+.activedot{
+    background-color: rgba(0,0,0,.5);
+}
 .dot>ul>li{
     border: 5px solid rgba(0,0,0,.1) ;
     border-radius:50%; 
 }
 .dot>ul>li:hover{
+    background-color: rgba(0,0,0,.5);
+    cursor: pointer;
+}
+.dotf1{
+width: 400px;
+height:20px;
+margin:0 auto;
+}
+
+.dotf1>ul{
+    width: 30px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.activedot{
+    background-color: rgba(0,0,0,.5);
+}
+.dotf1>ul>li{
+    border: 5px solid rgba(0,0,0,.1) ;
+    border-radius:50%; 
+}
+.dotf1>ul>li:hover{
     background-color: rgba(0,0,0,.5);
     cursor: pointer;
 }
