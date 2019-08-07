@@ -1,6 +1,6 @@
 <template>
     <div class="body-bg">
-      <div></div>
+      <div class="left"></div>
         <div id="banner" @mouseover="stop" @mouseleave="play">
             <ul id="ul-imgs" :style="containerStyle">       
                 <li><a href="javascript:;">
@@ -133,6 +133,17 @@ export default {
 }
 </script>
 <style scoped>
+.left,.right{
+  position: absolute;
+  width: 169px;
+  height:480px;
+  z-index: 2;
+  background: rgba(0, 0, 0, .7)
+}
+.right{
+  top:0;
+  right: 0;
+}
  .body-bg{
     height:100%;
     background: url(../../public/img/pre-nav/bg_detail.jpg) 50% 0 repeat-x;
@@ -142,7 +153,7 @@ export default {
 #banner{
     width:1200px;
     margin: 0 auto;
-    overflow:hidden;
+  
     position:relative;
   }
   #ul-imgs{
@@ -193,7 +204,7 @@ export default {
     margin-top: 10px;
     width: 79px;
     height: 108px;
-    background: rgba(0,0,0,.05);
+    background: rgba(255,255,255,.4);
     opacity: 1;
     z-index: 2;
     cursor: pointer;

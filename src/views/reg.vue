@@ -8,10 +8,12 @@
             <h1 class="title">听你想听，做你想做</h1>
             <h2 class="welcome">欢迎注册</h2>
             <div class="info">
-                <input type="text" placeholder="昵称">
-                <input type="password" placeholder="密码">
-                <input type="text" placeholder="手机">
-                <button>注册</button>
+                <input type="text" placeholder="手机" v-model="phone">
+                <input type="password" placeholder="密码" v-model="mima" >
+                <input class="yes" type="checkbox" ><span>我已阅读并同意相关服务条款</span>
+                <button :disabled="!isAgree">注册</button> 
+                <img src="../../public/img/login/zhengque.png">    
+                <img class="mima" src="../../public/img/login/mima.png" >
             </div>
             <h4 class="cop">Copyright © 1998-2019Tencent All Rights Reserved</h4>
         <div class="star star-1"><img src="img/login/star.png" alt=""></div>
@@ -25,10 +27,29 @@
 </template>
 <script>
 export default {
-    
+    data(){
+        return {
+           phone:"",
+           mima:""
+        }
+    },
+    methods:{
+        phone(){
+            var reg=/^1[3-9]\d{9}$/;
+            if(reg.test(this.phone)){
+                      
+            }
+        }
+    }
 }
 </script>
 <style scoped>
+.mima{
+    width: 30px;
+    position: absolute;
+    top:24%;
+    left: 87%;
+}
 .reg-bg{
    width:1535px;
    height:740px;
@@ -78,8 +99,10 @@ export default {
     left:900px;
     width: 300px;
     height: 400px;
+    position: relative;
     position: absolute;
 }
+
 .info>input{
     box-sizing: border-box;
     outline:none;
@@ -91,6 +114,14 @@ export default {
     border:1.5px solid #333;
     border-radius: 3px;
     color: #ffffff;
+}
+.info>span{
+    color: #ffffff
+}
+.info>input.yes{
+    width: 15px;
+    height:20px;
+    justify-content: flex-start
 }
 .info>button{
     box-sizing: border-box;
