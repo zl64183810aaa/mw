@@ -1971,6 +1971,11 @@
         <p>滴答滴答制作作品</p>
         <a href="">客户端下载</a>
     </div>
+    <div id="toTop">
+       <div class="top" @click="come"></div>
+       <div class="feedback"> <span>反馈</span> </div>
+       <div class="toplay"></div>
+    </div>
      <my-footer/>
     </div>
 </template>
@@ -1984,57 +1989,74 @@ export default {
          transitionEnd:true,
         }
     },
-    methods: {
-        bodyMove(offset, direction) {
-            if (!this.transitionEnd) return  //这里是闸
-                this.transitionEnd = false  
-    direction === -1 ? this.currentIndex++ : this.currentIndex--
-        if (this.currentIndex > 4) this.currentIndex = 1
-        if (this.currentIndex < 1) this.currentIndex = 4
-        const destination = this.distance + offset * direction
-        this.animate(destination, direction)
-    },
-    animate(des, direc) {
-        if ((direc === -1 && des < this.distance) || (direc === 1 && des > this.distance)) {
-            this.distance += 30 * direc        
-            window.setTimeout(() => {
-                this.animate(des, direc)
-            }, 20)
-        } else {
-            this.transitionEnd = true 
-            this.distance = des
-            if (des < -4800) this.distance = -1200
-            if (des > -1200) this.distance = -4800
+     mounted() {
+      window['onscroll']=()=>{
+        this.back()
       }
     },
-    bodyMoveF1(offset, direction) {
-        console.log(111)
-            if (!this.transitionEnd) return  //这里是闸
-                this.transitionEnd = false  
-    direction === -1 ? this.currentIndex++ : this.currentIndex--
-        if (this.currentIndex > 2) this.currentIndex = 1
-        if (this.currentIndex < 1) this.currentIndex = 2
-        console.log(this.distance)
-        const destination = this.distance + offset * direction
+    methods: {
+        come(e){
+                e.preventDefault();
+                window.scrollTo(100,100);
+            },
+            back(){
+                var scrollTop=document.documentElement.scrollTop||document.body.scrollTop;
+                if(scrollTop>=500){
+                toTop.className="show"
+                }else{
+                toTop.className=""
+                }
+            },
+        bodyMove(offset, direction) {
+                if (!this.transitionEnd) return  //这里是闸
+                    this.transitionEnd = false  
+        direction === -1 ? this.currentIndex++ : this.currentIndex--
+            if (this.currentIndex > 4) this.currentIndex = 1
+            if (this.currentIndex < 1) this.currentIndex = 4
+            const destination = this.distance + offset * direction
+            this.animate(destination, direction)
+        },
+        animate(des, direc) {
+            if ((direc === -1 && des < this.distance) || (direc === 1 && des > this.distance)) {
+                this.distance += 30 * direc        
+                window.setTimeout(() => {
+                    this.animate(des, direc)
+                }, 20)
+            } else {
+                this.transitionEnd = true 
+                this.distance = des
+                if (des < -4800) this.distance = -1200
+                if (des > -1200) this.distance = -4800
+        }
+        },
+    bodyMoveF1(offset,direction) {
+            console.log(111)
+                if (!this.transitionEnd) return  //这里是闸
+                    this.transitionEnd = false  
+        direction === -1 ? this.currentIndex++ : this.currentIndex--
+            if (this.currentIndex > 2) this.currentIndex = 1
+            if (this.currentIndex < 1) this.currentIndex = 2
+            console.log(this.distance)
+            const destination = this.distance + offset * direction
 
-        this.animateF1(destination, direction)
-    },
-    animateF1(des, direc) {
-        console.log(2221)
-         console.log(des)
-         
-        if ((direc === -1 && des < this.distance) || (direc === 1 && des > this.distance)) {
-            this.distance += 30 * direc        
-            window.setTimeout(() => {
-                this.animate(des, direc)
-            }, 20)
-        } else {
-            this.transitionEnd = true 
-            this.distance = des
-            console.log(333)
-            if (des < -2400) this.distance = -1200
-            if (des > -1200) this.distance = -2400
-      }}
+            this.animateF1(destination, direction)
+        },
+        animateF1(des, direc) {
+            console.log(2221)
+            console.log(des)
+            
+            if ((direc === -1 && des < this.distance) || (direc === 1 && des > this.distance)) {
+                this.distance += 30 * direc        
+                window.setTimeout(() => {
+                    this.animate(des, direc)
+                }, 20)
+            } else {
+                this.transitionEnd = true 
+                this.distance = des
+                console.log(333)
+                if (des < -2400) this.distance = -1200
+                if (des > -1200) this.distance = -2400
+        }}
     },
     computed:{
          containerStyle() {  //这里用了计算属性，用transform来移动整个图片列表
@@ -2047,6 +2069,39 @@ export default {
 }
 </script>
 <style scoped>
+#toTop>.top{
+    background-size: 40px;
+    background-image: url(../../public/img/sprite/toTop.png);
+    background-position: 80px 0px;
+}
+#toTop>.toplay{
+     background-size: 20px;
+     background-image: url(../../public/img/sprite/toplay.png);
+     background-size: 40px;
+     background-position: 80px 0px;
+
+}
+#toTop>div{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #000;
+    margin-bottom:  3px ;
+    line-height: 40px
+}
+#toTop{
+      position:fixed;
+      bottom:100px;
+      right:-100px;
+      /* display:none; */
+      width:100px;
+      opacity:0;
+      overflow:hidden;
+      transition:all .5s linear;
+    }
+    #toTop.show{
+      right:0px;
+      opacity:1;
+    }
 .body-new-out{
     width: 7200px;
     height: 333.3px;
